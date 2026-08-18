@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Keerthana
 
-💻 **Software Engineer | Backend-focused Developer**
+💻 **Software Engineer | Backend-focused**
 
 I build backends that scale, APIs that perform, and systems designed to survive the real world. I'm a Backend-focused Software Engineer with 2+ years of experience working on enterprise applications, REST APIs, production systems, and backend services.
 
