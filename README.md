@@ -10,10 +10,8 @@ I enjoy building backend systems, solving problems, and learning how systems wor
 
 - 🔭 Working as an **Application Developer at TCS**, working on GE Vernova's Outage Management System
 - 🌱 Currently learning **System Design & Backend Engineering**
-- 🧩 Solved **300+ LeetCode problems**
 - 🛠️ Building projects around **microservices, REST APIs, real-time systems & distributed systems**
 - 💡 Interested in **Backend Engineering, FinTech & Product-based companies**
-- ⚡ I like turning real-world problems into working software
 
 ### 🛠️ Tech Stack
 
